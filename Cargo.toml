@@ -1,0 +1,8 @@
+[package]
+name = "winos"
+version = "0.1.0"
+authors = ["Evan Chun"]
+license = "MIT"
+description = "No description."
+
+[dependencies]
