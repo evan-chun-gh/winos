@@ -1,8 +1,9 @@
 [package]
 name = "winos"
+description = "No description."
 version = "0.1.0"
+repository = "https://github.com/evan-chun-gh/winos"
 authors = ["Evan Chun"]
 license = "MIT"
-description = "No description."
 
 [dependencies]
